@@ -13,21 +13,11 @@ Extended:	FE
 High:		DF
 Low:		62
 
-\section FH File Revision History
-\par 	0.10		1/28/14
-		Initial Revision
-
-\par 	0.21		2/25/14
-		Demo
-		Many changes
-
-\par	0.30		3/11/14
-		Release for testing
-		Many changes
  */
 
 #include <avr/io.h>
-#include <avr/interrupt.h>#include <avr/power.h>
+#include <avr/interrupt.h>
+#include <avr/power.h>
 #include <avr/wdt.h>
 #include <avr/eeprom.h>
 #include "PillCap.h"
