@@ -1,14 +1,7 @@
 #!/usr/bin/python
 # pylint: disable-msg=C0103
 # pylint: disable-msg=C0301
-"""
-PillCap Communication Program
-Version Date			Changes
-0.10		01-31-14		First version
-0.20		02-25-14		Demo
-0.30		03-12-14		Prototype release
 
-"""
 SWVer = '0.30'
 
 import wx
