@@ -1,0 +1,24 @@
+
+C:\Users\kmgrepos\Desktop\charan\PillCap\Software\Code>python setupPy2exe.py py2exe 
+running py2exe
+running build_py
+*** searching for required modules ***
+*** parsing results ***
+creating python loader for extension '_ctypes' (C:\Python27\DLLs\_ctypes.pyd -> _ctypes.pyd)
+creating python loader for extension 'select' (C:\Python27\DLLs\select.pyd -> select.pyd)
+creating python loader for extension 'unicodedata' (C:\Python27\DLLs\unicodedata.pyd -> unicodedata.pyd)
+creating python loader for extension 'wx._controls_' (C:\Python27\lib\site-packages\wx-3.0-msw\wx\_controls_.pyd -> wx._controls_.pyd)
+creating python loader for extension 'PIL._imaging' (C:\Python27\lib\site-packages\PIL\_imaging.pyd -> PIL._imaging.pyd)
+creating python loader for extension 'sgmlop' (C:\Python27\lib\site-packages\sgmlop.pyd -> sgmlop.pyd)
+creating python loader for extension 'wx._windows_' (C:\Python27\lib\site-packages\wx-3.0-msw\wx\_windows_.pyd -> wx._windows_.pyd)
+creating python loader for extension '_hashlib' (C:\Python27\DLLs\_hashlib.pyd -> _hashlib.pyd)
+creating python loader for extension 'bz2' (C:\Python27\DLLs\bz2.pyd -> bz2.pyd)
+creating python loader for extension '_ssl' (C:\Python27\DLLs\_ssl.pyd -> _ssl.pyd)
+creating python loader for extension 'wx._misc_' (C:\Python27\lib\site-packages\wx-3.0-msw\wx\_misc_.pyd -> wx._misc_.pyd)
+creating python loader for extension 'wx._gdi_' (C:\Python27\lib\site-packages\wx-3.0-msw\wx\_gdi_.pyd -> wx._gdi_.pyd)
+creating python loader for extension 'pyexpat' (C:\Python27\DLLs\pyexpat.pyd -> pyexpat.pyd)
+creating python loader for extension 'wx._core_' (C:\Python27\lib\site-packages\wx-3.0-msw\wx\_core_.pyd -> wx._core_.pyd)
+creating python loader for extension '_socket' (C:\Python27\DLLs\_socket.pyd -> _socket.pyd)
+creating python loader for extension '_rl_accel' (C:\Python27\lib\site-packages\_rl_accel.pyd -> _rl_accel.pyd)
+creating python loader for extension 'wx._calendar' (C:\Python27\lib\site-packages\wx-3.0-msw\wx\_calendar.pyd -> wx._calendar.pyd)
+*** finding dlls needed ***
